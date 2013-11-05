@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+android:enabled="true"
+android:checkable="false"
+android:title="About"
+android:checked="false"
+android:id="@+id/about"
+android:icon="@android:drawable/ic_menu_info_details"
+android:visible="true"
+>
+</item>
+<item
+android:enabled="true"
+android:checkable="false"
+android:title="Help"
+android:checked="false"
+android:id="@+id/help"
+android:icon="@android:drawable/ic_menu_help"
+android:visible="true"
+>
+</item>
+<item
+android:enabled="true"
+android:checkable="false"
+android:title="Quit"
+android:checked="false"
+android:id="@+id/quit"
+android:icon="@android:drawable/ic_menu_close_clear_cancel"
+android:visible="true"
+>
+</item>
+</menu>
